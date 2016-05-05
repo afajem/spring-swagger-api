@@ -1,4 +1,4 @@
-package com.t7.reference.api;
+package com.niran.reference.api;
 
 import static springfox.documentation.builders.PathSelectors.regex;
 

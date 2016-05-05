@@ -1,4 +1,4 @@
-package com.t7.reference.api.controller;
+package com.niran.reference.api.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.t7.reference.api.domain.Person;
-import com.t7.reference.api.domain.PersonRepository;
+import com.niran.reference.api.domain.Person;
+import com.niran.reference.api.domain.PersonRepository;
 
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
